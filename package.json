@@ -1,7 +1,7 @@
 {
   "name": "ProMemeBot",
   "description": " ",
-  "version"L "0.0.0",
+  "version" "0.0.0",
   "main": "ProMemeBot.js",
   "scripts": {
     "start": "node ProMemeBot.js"
